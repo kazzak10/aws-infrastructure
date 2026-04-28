@@ -92,23 +92,23 @@ Security Group
 
 ### VPC — Réseau
 
-![VPC](screenshots/01_vpc.png)
+![VPC](screenshots/vpc.png)
 
 ### IAM — Gestion des accès
 
-![IAM](screenshots/02_iam.png)
+![IAM](screenshots/iam.png)
 
 ### S3 — Stockage
 
-![S3](screenshots/03_s3.png)
+![S3](screenshots/S3.png)
 
 ### RDS — Base de données
 
-![RDS](screenshots/04_rds.png)
+![RDS](screenshots/rds.png)
 
 ### EC2 — Calcul
 
-![EC2](screenshots/05_ec2.png)
+![EC2](screenshots/ec2.png)
 
 ---
 
