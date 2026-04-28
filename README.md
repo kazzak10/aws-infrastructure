@@ -129,6 +129,6 @@ Infrastructure cloud complète déployée en autonomie sur AWS Free Tier, sans f
 
 **Zakaria Houari** · Étudiant Bachelor Informatique spécialité IA/Data · ESGI Paris
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_Houari-0077B5?logo=linkedin)](https://linkedin.com/in/zakaria-houari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_Houari-0077B5?logo=linkedin)](www.linkedin.com/in/zakaria-houari-775259351)
 [![GitHub](https://img.shields.io/badge/GitHub-@kazzak10-181717?logo=github)](https://github.com/kazzak10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliohouari.netlify.app-orange)](https://portfoliohouari.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliohouari.netlify.app-orange)](https://zakariahouari.netlify.app)
